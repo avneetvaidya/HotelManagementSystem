@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    cout<<  "   github.com/avneetvaidya    ";
     cout << "    HOTEL EXECUTION WELCOMES YOU    ";
     int quantity;
     int choice;
